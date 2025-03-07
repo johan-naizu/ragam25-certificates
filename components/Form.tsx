@@ -6,7 +6,10 @@ import { validateEmail } from "pages/user";
 import { toast } from "react-toastify";
 import axios from "axios";
 
-const updateUserDetails = async (email, details) => {
+const updateUserDetails = async (
+  email: string,
+  details: Record<string, any>,
+) => {
   const strapiUrl = process.env.NEXT_PUBLIC_STRAPI_URL;
   const token = process.env.NEXT_PUBLIC_TOKEN;
 
