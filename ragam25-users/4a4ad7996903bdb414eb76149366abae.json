@@ -1,0 +1,16 @@
+{
+  "email": "afrinshafi2006@gmail.com",
+  "name": "Muhammed Afrin Shaffi",
+  "workshops": [
+    {
+      "name": "Electric Vehicles",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

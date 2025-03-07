@@ -1,0 +1,15 @@
+{
+  "email": "cv.saranya59@gmail.com",
+  "name": "Saranya",
+  "workshops": [
+    {
+      "name": "Acrylic Workshop",
+      "verified": true
+    },
+    {
+      "name": "Origami",
+      "verified": true
+    }
+  ],
+  "events": []
+}

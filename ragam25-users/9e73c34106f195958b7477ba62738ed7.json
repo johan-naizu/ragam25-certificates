@@ -1,0 +1,16 @@
+{
+  "email": "dhanushdeepa2006@gmail.com",
+  "name": "Dhanush S",
+  "workshops": [
+    {
+      "name": "Introduction to IOT",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

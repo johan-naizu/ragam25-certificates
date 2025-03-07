@@ -1,0 +1,15 @@
+{
+  "email": "sabiskumar13@gmail.com",
+  "name": "SABI S KUMAR",
+  "workshops": [
+    {
+      "name": "Cinematography and Film Editing",
+      "verified": true
+    },
+    {
+      "name": "Generative AI",
+      "verified": true
+    }
+  ],
+  "events": []
+}

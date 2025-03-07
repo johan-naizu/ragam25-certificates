@@ -1,0 +1,11 @@
+{
+  "email": "achukaroor1@gmail.com",
+  "name": "Asna S",
+  "workshops": [
+    {
+      "name": "Frontend WebDev",
+      "verified": true
+    }
+  ],
+  "events": []
+}

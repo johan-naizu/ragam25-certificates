@@ -1,0 +1,11 @@
+{
+  "email": "farzana3384@gmail.com",
+  "name": "Farzana A",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

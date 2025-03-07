@@ -1,0 +1,15 @@
+{
+  "email": "mihirthomas2323@gmail.com",
+  "name": "Riyan Raz",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    },
+    {
+      "name": "Valorant",
+      "verified": true
+    }
+  ]
+}

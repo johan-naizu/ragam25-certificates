@@ -1,0 +1,19 @@
+{
+  "email": "mokesh_m240457ec@nitc.ac.in",
+  "name": "Mokesh Kumar V",
+  "workshops": [
+    {
+      "name": "Quantum Computing",
+      "verified": true
+    },
+    {
+      "name": "Blockchain Technology",
+      "verified": true
+    },
+    {
+      "name": "One Day DevOps Sprint",
+      "verified": true
+    }
+  ],
+  "events": []
+}

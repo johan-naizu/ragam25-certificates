@@ -1,0 +1,16 @@
+{
+  "email": "mehuyasir@gmail.com",
+  "name": "Mehthab yasir",
+  "workshops": [
+    {
+      "name": "Data Science",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

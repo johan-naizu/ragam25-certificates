@@ -1,0 +1,11 @@
+{
+  "email": "parvathy05smitha@gmail.com",
+  "name": "Parvathy",
+  "workshops": [
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,11 @@
+{
+  "email": "adithyanaraj123@gmail.com",
+  "name": "Adithyan a raj",
+  "workshops": [
+    {
+      "name": "Electric Vehicles",
+      "verified": true
+    }
+  ],
+  "events": []
+}

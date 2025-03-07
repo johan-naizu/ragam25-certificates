@@ -1,0 +1,16 @@
+{
+  "email": "lidiyareju@gmail.com",
+  "name": "Lidiya Reju",
+  "workshops": [
+    {
+      "name": "Graphic Designing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

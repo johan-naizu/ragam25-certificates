@@ -1,0 +1,19 @@
+{
+  "email": "christopboby05@gmail.com",
+  "name": "CHRISTO PAUL BOBY ",
+  "workshops": [
+    {
+      "name": "Frontend WebDev (Online)",
+      "verified": true
+    },
+    {
+      "name": "Autonomous Cars",
+      "verified": true
+    },
+    {
+      "name": "Quantum Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

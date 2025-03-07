@@ -1,0 +1,19 @@
+{
+  "email": "gaurikadivakaran@gmail.com",
+  "name": "Gourika Divakaran ",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Treasure Hunt",
+      "verified": true
+    },
+    {
+      "name": "Treasure Hunt",
+      "verified": true
+    }
+  ]
+}

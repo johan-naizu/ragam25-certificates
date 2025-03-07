@@ -1,0 +1,16 @@
+{
+  "email": "fahad_b240034cs@nitc.ac.in",
+  "name": "Fahad Ali Habeeb",
+  "workshops": [
+    {
+      "name": "Frontend WebDev (Online)",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

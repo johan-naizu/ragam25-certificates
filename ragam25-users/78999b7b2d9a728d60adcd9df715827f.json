@@ -1,0 +1,15 @@
+{
+  "email": "henrychakuria12@gmail.com",
+  "name": "Henry Chakuria ",
+  "workshops": [
+    {
+      "name": "Frontend WebDev",
+      "verified": true
+    },
+    {
+      "name": "Generative AI",
+      "verified": true
+    }
+  ],
+  "events": []
+}

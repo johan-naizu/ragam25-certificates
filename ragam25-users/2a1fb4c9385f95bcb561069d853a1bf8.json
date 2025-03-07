@@ -1,0 +1,16 @@
+{
+  "email": "saysmoorthy06@gmail.com",
+  "name": "Sayoojya ",
+  "workshops": [
+    {
+      "name": "Cinematography and Film Editing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

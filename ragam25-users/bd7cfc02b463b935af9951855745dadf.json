@@ -1,0 +1,16 @@
+{
+  "email": "philankoshy@gmail.com",
+  "name": "Philan Koshy ",
+  "workshops": [
+    {
+      "name": "Graphic Designing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    }
+  ]
+}

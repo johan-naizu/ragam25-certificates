@@ -1,0 +1,16 @@
+{
+  "email": "isabelthomas2311@gmail.com",
+  "name": "Isabel Thomas",
+  "workshops": [
+    {
+      "name": "Graphic Designing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Call of Duty Mobile",
+      "verified": true
+    }
+  ]
+}

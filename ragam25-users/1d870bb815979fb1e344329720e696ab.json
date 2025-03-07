@@ -1,0 +1,15 @@
+{
+  "email": "mehaseennoushad@gmail.com",
+  "name": "Mehaseen Noushad ",
+  "workshops": [
+    {
+      "name": "Introduction to IOT",
+      "verified": true
+    },
+    {
+      "name": "Cyber Forensics and Ethical Hacking",
+      "verified": true
+    }
+  ],
+  "events": []
+}

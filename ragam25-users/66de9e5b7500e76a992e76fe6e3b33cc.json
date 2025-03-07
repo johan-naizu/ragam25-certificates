@@ -1,0 +1,11 @@
+{
+  "email": "nithinjosecz@gmail.com",
+  "name": "Nithin Jose",
+  "workshops": [
+    {
+      "name": "Frontend WebDev",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,20 @@
+{
+  "email": "stefanmichael2005@gmail.com",
+  "name": "Stefan Michael",
+  "workshops": [
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    },
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

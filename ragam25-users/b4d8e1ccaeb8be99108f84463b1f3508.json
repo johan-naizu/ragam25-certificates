@@ -1,0 +1,15 @@
+{
+  "email": "diyaydas@gmail.com",
+  "name": "Diya Y Das",
+  "workshops": [
+    {
+      "name": "Data Security and Privacy Protection (Online)",
+      "verified": true
+    },
+    {
+      "name": "Flutter",
+      "verified": true
+    }
+  ],
+  "events": []
+}

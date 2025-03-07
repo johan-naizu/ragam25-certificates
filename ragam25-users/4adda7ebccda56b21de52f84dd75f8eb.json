@@ -1,0 +1,15 @@
+{
+  "email": "athiraajay777@gmail.com",
+  "name": "Athira Ajay",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Tal Se Tal Mila",
+      "verified": true
+    }
+  ]
+}

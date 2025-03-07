@@ -1,0 +1,15 @@
+{
+  "email": "ayushi_b240542me@nitc.ac.in",
+  "name": "Ayushi Singh",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking (Online)",
+      "verified": true
+    },
+    {
+      "name": "AI/ML (Online)",
+      "verified": true
+    }
+  ],
+  "events": []
+}

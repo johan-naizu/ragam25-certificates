@@ -1,0 +1,31 @@
+{
+  "email": "aquilaaleph0@gmail.com",
+  "name": "Aquila Aleph ",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Kalolsavam Pass",
+      "verified": true
+    },
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Improv",
+      "verified": true
+    },
+    {
+      "name": "Mono Act",
+      "verified": true
+    },
+    {
+      "name": "Mr and Mrs Ragam",
+      "verified": true
+    },
+    {
+      "name": "Panache",
+      "verified": true
+    }
+  ]
+}

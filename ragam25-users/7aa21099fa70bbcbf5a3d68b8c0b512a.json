@@ -1,0 +1,15 @@
+{
+  "email": "maheshudayakumar2002@gmail.com",
+  "name": "MAHESH U",
+  "workshops": [
+    {
+      "name": "Electric Vehicles",
+      "verified": true
+    },
+    {
+      "name": "Introduction to IOT",
+      "verified": true
+    }
+  ],
+  "events": []
+}

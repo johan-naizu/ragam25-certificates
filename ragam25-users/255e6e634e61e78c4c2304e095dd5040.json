@@ -1,0 +1,19 @@
+{
+  "email": "harithhus123@gmail.com",
+  "name": "Harith Hussain",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Western Solo",
+      "verified": true
+    },
+    {
+      "name": "String Solo",
+      "verified": true
+    }
+  ]
+}

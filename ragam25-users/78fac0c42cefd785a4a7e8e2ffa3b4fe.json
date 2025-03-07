@@ -1,0 +1,11 @@
+{
+  "email": "amithsuresh09@gmail.com",
+  "name": "Amith S",
+  "workshops": [
+    {
+      "name": "Data Science",
+      "verified": true
+    }
+  ],
+  "events": []
+}

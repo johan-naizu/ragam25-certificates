@@ -1,0 +1,15 @@
+{
+  "email": "ishaish0108@gmail.com",
+  "name": "Aiswarya R",
+  "workshops": [
+    {
+      "name": "Generative AI",
+      "verified": true
+    },
+    {
+      "name": "Robotics",
+      "verified": true
+    }
+  ],
+  "events": []
+}

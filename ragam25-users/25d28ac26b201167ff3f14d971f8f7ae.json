@@ -1,0 +1,15 @@
+{
+  "email": "jayaprasadadhya2004@gmail.com",
+  "name": "Adhya Jayaprasad",
+  "workshops": [
+    {
+      "name": "Python (Online)",
+      "verified": true
+    },
+    {
+      "name": "Autocad",
+      "verified": true
+    }
+  ],
+  "events": []
+}

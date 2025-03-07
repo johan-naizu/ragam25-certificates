@@ -1,0 +1,11 @@
+{
+  "email": "nikhilk2101@gmail.com",
+  "name": "Nikhil K",
+  "workshops": [
+    {
+      "name": "Robotics",
+      "verified": true
+    }
+  ],
+  "events": []
+}

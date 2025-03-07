@@ -1,0 +1,15 @@
+{
+  "email": "abhijithlnath23@gmail.com",
+  "name": "ABHIJITH L NATH",
+  "workshops": [
+    {
+      "name": "Autonomous Cars",
+      "verified": true
+    },
+    {
+      "name": "Ansys",
+      "verified": true
+    }
+  ],
+  "events": []
+}

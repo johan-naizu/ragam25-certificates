@@ -1,0 +1,19 @@
+{
+  "email": "soorajsass190@gmail.com",
+  "name": "Sooraj",
+  "workshops": [],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    },
+    {
+      "name": "Free Fire",
+      "verified": true
+    },
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

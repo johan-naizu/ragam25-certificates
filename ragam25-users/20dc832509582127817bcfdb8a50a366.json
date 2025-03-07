@@ -1,0 +1,11 @@
+{
+  "email": "tombenny1013@gmail.com",
+  "name": "Tom Benny",
+  "workshops": [
+    {
+      "name": "AI/ML",
+      "verified": true
+    }
+  ],
+  "events": []
+}

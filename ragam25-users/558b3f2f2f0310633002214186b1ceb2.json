@@ -1,0 +1,23 @@
+{
+  "email": "salmanrdv131@gmail.com",
+  "name": "Salman N",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Standup Comedy",
+      "verified": true
+    },
+    {
+      "name": "Crime Scene Investigation",
+      "verified": true
+    },
+    {
+      "name": "Crime Scene Investigation",
+      "verified": true
+    }
+  ]
+}

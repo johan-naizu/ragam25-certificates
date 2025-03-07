@@ -1,0 +1,20 @@
+{
+  "email": "albin666abraham@gmail.com",
+  "name": "Albin Abraham",
+  "workshops": [
+    {
+      "name": "Decoding Social Media Trends",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Valorant",
+      "verified": true
+    },
+    {
+      "name": "E Football",
+      "verified": true
+    }
+  ]
+}

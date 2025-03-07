@@ -1,0 +1,23 @@
+{
+  "email": "vigneshpk209@gmail.com",
+  "name": "Vignesh P K",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    },
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Western Solo",
+      "verified": true
+    },
+    {
+      "name": "Western Solo",
+      "verified": true
+    }
+  ]
+}

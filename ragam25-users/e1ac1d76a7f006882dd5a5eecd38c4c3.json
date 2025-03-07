@@ -1,0 +1,16 @@
+{
+  "email": "ansibasn@gmail.com",
+  "name": "Ansiba S N",
+  "workshops": [
+    {
+      "name": "Data Science",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

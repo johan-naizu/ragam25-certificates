@@ -1,0 +1,11 @@
+{
+  "email": "diyadavisd@gmail.com",
+  "name": "Diya Davis",
+  "workshops": [
+    {
+      "name": "Frontend WebDev",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,16 @@
+{
+  "email": "kamalesh_b240058cs@nitc.ac.in",
+  "name": "Kamalesh",
+  "workshops": [
+    {
+      "name": "AI/ML",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

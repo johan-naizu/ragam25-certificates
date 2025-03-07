@@ -1,0 +1,15 @@
+{
+  "email": "karthikayan3130@gmail.com",
+  "name": "Karthik b",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking",
+      "verified": true
+    },
+    {
+      "name": "Python",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,15 @@
+{
+  "email": "abhishekajee828@gmail.com",
+  "name": "Abhishek Ajee",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking (Online)",
+      "verified": true
+    },
+    {
+      "name": "Photo and Video Editing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

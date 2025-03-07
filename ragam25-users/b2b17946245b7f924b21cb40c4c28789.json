@@ -1,0 +1,15 @@
+{
+  "email": "jeevangeorge982006@gmail.com",
+  "name": "Jeevan George Eapen ",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking (Online)",
+      "verified": true
+    },
+    {
+      "name": "Cinematography and Film Editing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,15 @@
+{
+  "email": "krishna002028@gmail.com",
+  "name": "Krishna Nandana. R",
+  "workshops": [
+    {
+      "name": "AI/ML",
+      "verified": true
+    },
+    {
+      "name": "Blockchain Technology",
+      "verified": true
+    }
+  ],
+  "events": []
+}

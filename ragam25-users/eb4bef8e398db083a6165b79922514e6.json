@@ -1,0 +1,11 @@
+{
+  "email": "actytheres@gmail.com",
+  "name": "Acty Theres Pauly",
+  "workshops": [
+    {
+      "name": "Frontend WebDev",
+      "verified": true
+    }
+  ],
+  "events": []
+}

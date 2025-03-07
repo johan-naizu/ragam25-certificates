@@ -1,0 +1,16 @@
+{
+  "email": "adwaidhmanu@gmail.com",
+  "name": "Adwaidh S S",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

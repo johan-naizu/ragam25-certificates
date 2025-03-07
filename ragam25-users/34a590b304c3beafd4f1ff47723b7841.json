@@ -1,0 +1,16 @@
+{
+  "email": "risalshahip@gmail.com",
+  "name": "Mohamed Risal shahi p",
+  "workshops": [
+    {
+      "name": "PCB Design",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    }
+  ]
+}

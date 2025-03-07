@@ -1,0 +1,20 @@
+{
+  "email": "antonyalbin609@gmail.com",
+  "name": "Albin Anil",
+  "workshops": [
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Valorant",
+      "verified": true
+    },
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

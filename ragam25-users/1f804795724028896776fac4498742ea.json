@@ -1,0 +1,11 @@
+{
+  "email": "arunmp246@gmail.com",
+  "name": "Arun mp",
+  "workshops": [
+    {
+      "name": "Quantum Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

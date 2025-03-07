@@ -1,0 +1,16 @@
+{
+  "email": "absalombrijesh77@gmail.com",
+  "name": "Absalom brijesh",
+  "workshops": [
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "email": "rsaadith803@gmail.com",
+  "name": "AADITH RS",
+  "workshops": [
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Call of Duty Mobile",
+      "verified": true
+    }
+  ]
+}

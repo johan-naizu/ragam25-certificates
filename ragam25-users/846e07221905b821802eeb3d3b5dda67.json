@@ -1,0 +1,16 @@
+{
+  "email": "adwaith.b.a1101@gmail.com",
+  "name": "ADWAITH B A",
+  "workshops": [
+    {
+      "name": "Flutter",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

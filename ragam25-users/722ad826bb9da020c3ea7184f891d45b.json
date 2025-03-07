@@ -1,0 +1,16 @@
+{
+  "email": "vniranjan720@gmail.com",
+  "name": "Niranjan VS",
+  "workshops": [
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

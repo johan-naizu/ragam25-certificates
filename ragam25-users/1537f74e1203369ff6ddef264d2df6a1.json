@@ -1,0 +1,15 @@
+{
+  "email": "shreyaann06@gmail.com",
+  "name": "Shreya Ann Binu ",
+  "workshops": [
+    {
+      "name": "Generative AI",
+      "verified": true
+    },
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": []
+}

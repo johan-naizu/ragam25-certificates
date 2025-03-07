@@ -1,0 +1,15 @@
+{
+  "email": "agiaben4@gmail.com",
+  "name": "Agila Benedict",
+  "workshops": [
+    {
+      "name": "Generative AI",
+      "verified": true
+    },
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": []
+}

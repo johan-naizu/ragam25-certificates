@@ -1,0 +1,16 @@
+{
+  "email": "sonofjchandran@gmail.com",
+  "name": "Gagan Chandran",
+  "workshops": [
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    }
+  ]
+}

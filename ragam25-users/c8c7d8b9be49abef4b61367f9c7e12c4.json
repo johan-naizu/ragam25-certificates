@@ -1,0 +1,16 @@
+{
+  "email": "firelessfly@gmail.com",
+  "name": "Roshan S Raj",
+  "workshops": [
+    {
+      "name": "AI/ML",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Free Fire",
+      "verified": true
+    }
+  ]
+}

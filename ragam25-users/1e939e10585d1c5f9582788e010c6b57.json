@@ -1,0 +1,20 @@
+{
+  "email": "nandamr2006@gmail.com",
+  "name": "Nanda MR ",
+  "workshops": [
+    {
+      "name": "PCB Design",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Kalolsavam Pass",
+      "verified": true
+    },
+    {
+      "name": "Event Pass",
+      "verified": true
+    }
+  ]
+}

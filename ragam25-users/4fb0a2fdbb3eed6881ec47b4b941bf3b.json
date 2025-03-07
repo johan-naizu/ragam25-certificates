@@ -1,0 +1,20 @@
+{
+  "email": "abhisheksam.sisi@gmail.com",
+  "name": "ABHISHEK SAM",
+  "workshops": [
+    {
+      "name": "Flutter",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    },
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

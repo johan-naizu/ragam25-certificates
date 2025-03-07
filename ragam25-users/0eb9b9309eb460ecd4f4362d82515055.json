@@ -1,0 +1,15 @@
+{
+  "email": "joelgeorge3226@gmail.com",
+  "name": "Joel George",
+  "workshops": [
+    {
+      "name": "Generative AI",
+      "verified": true
+    },
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": []
+}

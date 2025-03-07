@@ -1,0 +1,16 @@
+{
+  "email": "raiswarya001@gmail.com",
+  "name": "Aiswarya R",
+  "workshops": [
+    {
+      "name": "Introduction to IOT (IEEE Exclusive)",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

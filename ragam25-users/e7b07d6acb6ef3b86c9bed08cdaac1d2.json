@@ -1,0 +1,15 @@
+{
+  "email": "manichinna724@gmail.com",
+  "name": "MANI",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Choreo Nite",
+      "verified": true
+    },
+    {
+      "name": "Event Pass",
+      "verified": true
+    }
+  ]
+}

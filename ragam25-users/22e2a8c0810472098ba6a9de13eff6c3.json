@@ -1,0 +1,20 @@
+{
+  "email": "hrithik9496@gmail.com",
+  "name": "Hrithik K. S. ",
+  "workshops": [
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    },
+    {
+      "name": "Free Fire",
+      "verified": true
+    }
+  ]
+}

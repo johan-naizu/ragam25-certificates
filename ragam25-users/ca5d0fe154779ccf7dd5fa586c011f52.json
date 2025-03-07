@@ -1,0 +1,20 @@
+{
+  "email": "kalkinloganathan@gmail.com",
+  "name": "L Kalkin ",
+  "workshops": [
+    {
+      "name": "AI/ML",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    },
+    {
+      "name": "Free Fire",
+      "verified": true
+    }
+  ]
+}

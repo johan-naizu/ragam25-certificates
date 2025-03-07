@@ -1,0 +1,11 @@
+{
+  "email": "devansuresh05@gmail.com",
+  "name": "Devan Suresh",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking",
+      "verified": true
+    }
+  ],
+  "events": []
+}

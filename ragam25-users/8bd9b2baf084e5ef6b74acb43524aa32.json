@@ -1,0 +1,16 @@
+{
+  "email": "midhunnaveen3@gmail.com",
+  "name": "Midhun",
+  "workshops": [
+    {
+      "name": "Flutter",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Valorant",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "email": "danielthomas5122005@gmail.com",
+  "name": "Daniel Thomas",
+  "workshops": [
+    {
+      "name": "Flutter",
+      "verified": true
+    }
+  ],
+  "events": []
+}

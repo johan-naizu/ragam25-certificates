@@ -1,0 +1,19 @@
+{
+  "email": "nidhingireesh12345@gmail.com",
+  "name": "Nidhin Gireesh",
+  "workshops": [],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    },
+    {
+      "name": "Valorant",
+      "verified": true
+    },
+    {
+      "name": "Call of Duty Mobile",
+      "verified": true
+    }
+  ]
+}

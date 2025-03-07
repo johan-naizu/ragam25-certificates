@@ -1,0 +1,19 @@
+{
+  "email": "danijohn433@gmail.com",
+  "name": "Dani John ",
+  "workshops": [
+    {
+      "name": "PCB Design",
+      "verified": true
+    },
+    {
+      "name": "One Day DevOps Sprint",
+      "verified": true
+    },
+    {
+      "name": "Robotics",
+      "verified": true
+    }
+  ],
+  "events": []
+}

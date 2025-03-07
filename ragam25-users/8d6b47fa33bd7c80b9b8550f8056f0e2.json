@@ -1,0 +1,15 @@
+{
+  "email": "abinshibu066@gmail.com",
+  "name": "ABIN ",
+  "workshops": [
+    {
+      "name": "Generative AI",
+      "verified": true
+    },
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": []
+}

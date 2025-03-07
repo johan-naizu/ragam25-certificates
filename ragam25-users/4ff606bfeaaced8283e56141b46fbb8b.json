@@ -1,0 +1,15 @@
+{
+  "email": "christeenotelfin@gmail.com",
+  "name": "Christeeno Telfin ",
+  "workshops": [
+    {
+      "name": "Python",
+      "verified": true
+    },
+    {
+      "name": "Flutter",
+      "verified": true
+    }
+  ],
+  "events": []
+}

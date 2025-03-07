@@ -1,0 +1,11 @@
+{
+  "email": "sandraabhilaja@gmail.com",
+  "name": "Sandra A",
+  "workshops": [
+    {
+      "name": "Flutter",
+      "verified": true
+    }
+  ],
+  "events": []
+}

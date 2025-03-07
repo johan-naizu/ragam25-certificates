@@ -1,0 +1,15 @@
+{
+  "email": "utharaparu007@gmail.com",
+  "name": "Uthara Nair ",
+  "workshops": [
+    {
+      "name": "Data Science",
+      "verified": true
+    },
+    {
+      "name": "AI/ML",
+      "verified": true
+    }
+  ],
+  "events": []
+}

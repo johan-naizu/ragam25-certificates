@@ -1,0 +1,16 @@
+{
+  "email": "nikhilnathdinu@gmail.com",
+  "name": "Nikhil Nadh S",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

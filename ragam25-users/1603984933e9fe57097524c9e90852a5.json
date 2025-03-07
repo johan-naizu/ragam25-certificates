@@ -1,0 +1,16 @@
+{
+  "email": "nandanmkrishnan2468@gmail.com",
+  "name": "Nandan M Krishnan",
+  "workshops": [
+    {
+      "name": "Blockchain Technology",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

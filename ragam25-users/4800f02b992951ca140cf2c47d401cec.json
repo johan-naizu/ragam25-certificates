@@ -1,0 +1,16 @@
+{
+  "email": "pjram78@gmail.com",
+  "name": "Ram PJ",
+  "workshops": [
+    {
+      "name": "Autonomous Cars",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

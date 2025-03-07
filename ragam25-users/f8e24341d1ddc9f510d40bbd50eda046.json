@@ -1,0 +1,15 @@
+{
+  "email": "pandasnigdha1969@gmail.com",
+  "name": "Snigdha Panda",
+  "workshops": [
+    {
+      "name": "Hand-Built Pottery",
+      "verified": true
+    },
+    {
+      "name": "Ceramic Art",
+      "verified": true
+    }
+  ],
+  "events": []
+}

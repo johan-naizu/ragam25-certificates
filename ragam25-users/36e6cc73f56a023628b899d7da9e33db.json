@@ -1,0 +1,11 @@
+{
+  "email": "devikababu200310@gmail.com",
+  "name": "Devika Babu",
+  "workshops": [
+    {
+      "name": "Flutter",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,11 @@
+{
+  "email": "adampeter2011@gmail.com",
+  "name": "Adam Peter",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

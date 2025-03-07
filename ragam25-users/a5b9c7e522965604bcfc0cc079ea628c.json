@@ -1,0 +1,11 @@
+{
+  "email": "rockrockrain@gmail.com",
+  "name": "Adithyan S",
+  "workshops": [
+    {
+      "name": "Quantum Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,16 @@
+{
+  "email": "sabhiram19@gmail.com",
+  "name": "Abhiram S",
+  "workshops": [
+    {
+      "name": "Flutter",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Smash",
+      "verified": true
+    }
+  ]
+}

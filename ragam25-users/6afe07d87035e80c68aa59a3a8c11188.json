@@ -1,0 +1,15 @@
+{
+  "email": "farhinjanathsj@gmail.com",
+  "name": "Farhin Janath S J ",
+  "workshops": [
+    {
+      "name": "Python (Online)",
+      "verified": true
+    },
+    {
+      "name": "Electric Vehicles",
+      "verified": true
+    }
+  ],
+  "events": []
+}

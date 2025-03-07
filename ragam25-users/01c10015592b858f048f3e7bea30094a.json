@@ -1,0 +1,15 @@
+{
+  "email": "amritalakshmi06@gmail.com",
+  "name": "amrita",
+  "workshops": [
+    {
+      "name": "Cinematography and Film Editing",
+      "verified": true
+    },
+    {
+      "name": "Frontend WebDev",
+      "verified": true
+    }
+  ],
+  "events": []
+}

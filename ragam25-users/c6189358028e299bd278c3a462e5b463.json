@@ -1,0 +1,36 @@
+{
+  "email": "thejusmsajeem6@gmail.com",
+  "name": "Thejus M Sajeem",
+  "workshops": [
+    {
+      "name": "Robotics",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Treasure Hunt",
+      "verified": true
+    },
+    {
+      "name": "Crime Scene Investigation",
+      "verified": true
+    },
+    {
+      "name": "Debate - English",
+      "verified": true
+    },
+    {
+      "name": "Just A Minute",
+      "verified": true
+    },
+    {
+      "name": "Story Telling",
+      "verified": true
+    }
+  ]
+}

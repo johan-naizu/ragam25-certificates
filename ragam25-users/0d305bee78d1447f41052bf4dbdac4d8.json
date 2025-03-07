@@ -1,0 +1,15 @@
+{
+  "email": "sreyasunilmvk@gmail.com",
+  "name": "S SREYA ",
+  "workshops": [
+    {
+      "name": "Generative AI",
+      "verified": true
+    },
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": []
+}

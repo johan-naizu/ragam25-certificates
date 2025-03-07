@@ -1,0 +1,11 @@
+{
+  "email": "rakendaj@gmail.com",
+  "name": "Rakend AJ",
+  "workshops": [
+    {
+      "name": "Photo and Video Editing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

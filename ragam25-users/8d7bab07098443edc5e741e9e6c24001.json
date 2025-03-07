@@ -1,0 +1,16 @@
+{
+  "email": "mottapuffsbgmigod@gmail.com",
+  "name": "Aqdas N",
+  "workshops": [
+    {
+      "name": "Game Development",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

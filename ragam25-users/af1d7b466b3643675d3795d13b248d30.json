@@ -1,0 +1,16 @@
+{
+  "email": "aswinasdevaragam123@gmail.com",
+  "name": "Aswin as",
+  "workshops": [
+    {
+      "name": "Blockchain Technology",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    }
+  ]
+}

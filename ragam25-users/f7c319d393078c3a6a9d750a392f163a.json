@@ -1,0 +1,15 @@
+{
+  "email": "alkamariumkurian@gmail.com",
+  "name": "Alka Marium Kurian ",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    },
+    {
+      "name": "Ceramic Art",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,15 @@
+{
+  "email": "pankajkumar.211ec133@nitk.edu.in",
+  "name": "Pankaj Kumar",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Streetplay",
+      "verified": true
+    },
+    {
+      "name": "Event Pass",
+      "verified": true
+    }
+  ]
+}

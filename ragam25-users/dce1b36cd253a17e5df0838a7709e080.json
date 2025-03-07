@@ -1,0 +1,16 @@
+{
+  "email": "sreenandansahil@gmail.com",
+  "name": "Sreenandan S",
+  "workshops": [
+    {
+      "name": "Introduction to IOT",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    }
+  ]
+}

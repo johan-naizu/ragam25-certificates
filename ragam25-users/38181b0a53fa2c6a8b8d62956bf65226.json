@@ -1,0 +1,16 @@
+{
+  "email": "shihasmohammed4@gmail.com",
+  "name": "Shihas Mohammed",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Free Fire",
+      "verified": true
+    }
+  ]
+}

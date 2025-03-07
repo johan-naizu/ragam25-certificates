@@ -1,0 +1,15 @@
+{
+  "email": "akash.s5183282@gmail.com",
+  "name": "AKASH S",
+  "workshops": [
+    {
+      "name": "Python",
+      "verified": true
+    },
+    {
+      "name": "Frontend WebDev",
+      "verified": true
+    }
+  ],
+  "events": []
+}

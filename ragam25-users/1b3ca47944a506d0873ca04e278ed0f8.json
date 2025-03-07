@@ -1,0 +1,16 @@
+{
+  "email": "aryan_b240513ch@nitc.ac.in",
+  "name": "Aryan ",
+  "workshops": [
+    {
+      "name": "Frontend WebDev (Online)",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

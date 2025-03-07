@@ -1,0 +1,16 @@
+{
+  "email": "sreeharismenon123@gmail.com",
+  "name": "Sreehari S Menon",
+  "workshops": [
+    {
+      "name": "One Day DevOps Sprint",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    }
+  ]
+}

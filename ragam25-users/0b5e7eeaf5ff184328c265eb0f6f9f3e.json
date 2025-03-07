@@ -1,0 +1,27 @@
+{
+  "email": "maspsunder@gmail.com",
+  "name": "SHYAM SUNDER S",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Choreo Nite",
+      "verified": true
+    },
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Dance Off",
+      "verified": true
+    },
+    {
+      "name": "Tangled",
+      "verified": true
+    },
+    {
+      "name": "Tangled",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "email": "bharath_b240587me@nitc.ac.in",
+  "name": "Bharath C",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking (Online)",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

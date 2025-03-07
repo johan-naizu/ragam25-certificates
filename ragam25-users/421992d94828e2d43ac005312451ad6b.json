@@ -1,0 +1,19 @@
+{
+  "email": "sreevass06@gmail.com",
+  "name": "Sreevas. S",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Check Mate",
+      "verified": true
+    },
+    {
+      "name": "Kalolsavam Pass",
+      "verified": true
+    },
+    {
+      "name": "Classical Music Solo",
+      "verified": true
+    }
+  ]
+}

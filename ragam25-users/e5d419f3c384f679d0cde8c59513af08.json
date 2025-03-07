@@ -1,0 +1,15 @@
+{
+  "email": "adithyasajeev27@gmail.com",
+  "name": "Adithya S ",
+  "workshops": [
+    {
+      "name": "Frontend WebDev (Online)",
+      "verified": true
+    },
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

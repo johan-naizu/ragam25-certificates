@@ -1,0 +1,23 @@
+{
+  "email": "kevink.inmca2126@saintgits.org",
+  "name": "Kevin K Thomas",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Treasure Hunt",
+      "verified": true
+    },
+    {
+      "name": "Treasure Hunt",
+      "verified": true
+    },
+    {
+      "name": "Crime Scene Investigation",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "email": "sobharajendrans@gmail.com",
+  "name": "Sneha.S",
+  "workshops": [
+    {
+      "name": "Decoding Social Media Trends",
+      "verified": true
+    },
+    {
+      "name": "Cinematography and Film Editing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

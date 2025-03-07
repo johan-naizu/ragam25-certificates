@@ -1,0 +1,15 @@
+{
+  "email": "martinmathew1john@gmail.com",
+  "name": "Martin John Mathew",
+  "workshops": [
+    {
+      "name": "Data Security and Privacy Protection (Online)",
+      "verified": true
+    },
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

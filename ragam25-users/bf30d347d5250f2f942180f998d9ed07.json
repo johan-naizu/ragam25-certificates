@@ -1,0 +1,16 @@
+{
+  "email": "rojin0192837465@gmail.com",
+  "name": "Rojin Roy",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Call of Duty Mobile",
+      "verified": true
+    }
+  ]
+}

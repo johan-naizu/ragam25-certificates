@@ -1,0 +1,16 @@
+{
+  "email": "souravssourav74@gmail.com",
+  "name": "Sourav.S",
+  "workshops": [
+    {
+      "name": "Autonomous Cars",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    }
+  ]
+}

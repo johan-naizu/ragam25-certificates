@@ -1,0 +1,15 @@
+{
+  "email": "ansafmuhammedsquad@gmail.com",
+  "name": "Ansaf Muhammed",
+  "workshops": [
+    {
+      "name": "Blockchain Technology",
+      "verified": true
+    },
+    {
+      "name": "Quantum Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

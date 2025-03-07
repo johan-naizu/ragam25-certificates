@@ -1,0 +1,16 @@
+{
+  "email": "akshayathiraperumon@gmail.com",
+  "name": "Akshaj ",
+  "workshops": [
+    {
+      "name": "Graphic Designing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Free Fire",
+      "verified": true
+    }
+  ]
+}

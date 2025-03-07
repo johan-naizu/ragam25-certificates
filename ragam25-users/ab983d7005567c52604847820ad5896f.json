@@ -1,0 +1,15 @@
+{
+  "email": "gouthammanu08@gmail.com",
+  "name": "Goutham M R",
+  "workshops": [
+    {
+      "name": "Generative AI",
+      "verified": true
+    },
+    {
+      "name": "Robotics",
+      "verified": true
+    }
+  ],
+  "events": []
+}

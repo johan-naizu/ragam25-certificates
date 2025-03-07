@@ -1,0 +1,15 @@
+{
+  "email": "sreelekshmimathu999@gmail.com",
+  "name": "Sreelekshmi S",
+  "workshops": [
+    {
+      "name": "Data Science",
+      "verified": true
+    },
+    {
+      "name": "AI/ML",
+      "verified": true
+    }
+  ],
+  "events": []
+}

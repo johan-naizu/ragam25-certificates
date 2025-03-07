@@ -1,0 +1,16 @@
+{
+  "email": "karthiks2894@gmail.com",
+  "name": "Karthik S",
+  "workshops": [
+    {
+      "name": "Decoding Social Media Trends",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Free Fire",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "email": "sandeepsr2005@gmail.com",
+  "name": "Sandeep",
+  "workshops": [
+    {
+      "name": "Electric Vehicles",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

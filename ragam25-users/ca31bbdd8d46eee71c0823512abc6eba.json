@@ -1,0 +1,11 @@
+{
+  "email": "adarshbabu0420@gmail.com",
+  "name": "Adarsh babu",
+  "workshops": [
+    {
+      "name": "Game Development",
+      "verified": true
+    }
+  ],
+  "events": []
+}

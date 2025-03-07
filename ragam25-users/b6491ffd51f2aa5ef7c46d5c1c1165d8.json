@@ -1,0 +1,11 @@
+{
+  "email": "aftabmfaisal@gmail.com",
+  "name": "Aftab Muhammed Faisal",
+  "workshops": [
+    {
+      "name": "Quantum Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

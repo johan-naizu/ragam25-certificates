@@ -1,0 +1,15 @@
+{
+  "email": "2005rsnidhi@gmail.com",
+  "name": "Nidhi RS ",
+  "workshops": [
+    {
+      "name": "Big Data Analysis",
+      "verified": true
+    },
+    {
+      "name": "Frontend WebDev",
+      "verified": true
+    }
+  ],
+  "events": []
+}

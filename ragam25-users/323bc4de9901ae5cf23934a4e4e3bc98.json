@@ -1,0 +1,20 @@
+{
+  "email": "athulya_m240680cs@nitc.ac.in",
+  "name": "Athulya P D",
+  "workshops": [
+    {
+      "name": "Acrylic Workshop",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Western Solo",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "email": "joshimpaul01@gmail.com",
+  "name": "Joshim Paul",
+  "workshops": [
+    {
+      "name": "Sketchup with VR Integration",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Valorant",
+      "verified": true
+    }
+  ]
+}

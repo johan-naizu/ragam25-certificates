@@ -1,0 +1,16 @@
+{
+  "email": "vishalvijay449@gmail.com",
+  "name": "Vishal vijay",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Call of Duty Mobile",
+      "verified": true
+    }
+  ]
+}

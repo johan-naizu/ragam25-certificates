@@ -1,0 +1,15 @@
+{
+  "email": "maanastmanoj7@gmail.com",
+  "name": "Maanas T Manoj ",
+  "workshops": [
+    {
+      "name": "Decoding Social Media Trends",
+      "verified": true
+    },
+    {
+      "name": "Cinematography and Film Editing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

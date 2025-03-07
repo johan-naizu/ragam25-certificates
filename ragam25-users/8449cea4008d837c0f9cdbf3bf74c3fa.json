@@ -1,0 +1,15 @@
+{
+  "email": "ebysabu1239@gmail.com",
+  "name": "Eby sabu",
+  "workshops": [
+    {
+      "name": "AI/ML (Online)",
+      "verified": true
+    },
+    {
+      "name": "Flutter",
+      "verified": true
+    }
+  ],
+  "events": []
+}

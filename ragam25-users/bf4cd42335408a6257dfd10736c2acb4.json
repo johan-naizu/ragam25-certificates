@@ -1,0 +1,31 @@
+{
+  "email": "parvathyb45@gmail.com",
+  "name": "Parvathy B",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Kalolsavam Pass",
+      "verified": true
+    },
+    {
+      "name": "Mappilapattu",
+      "verified": true
+    },
+    {
+      "name": "Classical Music Solo",
+      "verified": true
+    },
+    {
+      "name": "Classical Music Solo",
+      "verified": true
+    },
+    {
+      "name": "Light Music Solo",
+      "verified": true
+    },
+    {
+      "name": "Light Music Solo",
+      "verified": true
+    }
+  ]
+}

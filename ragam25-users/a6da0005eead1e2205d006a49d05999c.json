@@ -1,0 +1,16 @@
+{
+  "email": "arjunsunilvjd@gmail.com",
+  "name": "Arjun.S",
+  "workshops": [
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

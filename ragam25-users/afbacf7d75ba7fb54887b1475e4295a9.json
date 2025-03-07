@@ -1,0 +1,15 @@
+{
+  "email": "shreyasagar338@gmail.com",
+  "name": "Shreya Sagar",
+  "workshops": [
+    {
+      "name": "Advanced Digital Marketing",
+      "verified": true
+    },
+    {
+      "name": "Game Development",
+      "verified": true
+    }
+  ],
+  "events": []
+}

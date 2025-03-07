@@ -1,0 +1,16 @@
+{
+  "email": "ruben2005roby@gmail.com",
+  "name": "RUBEN ROBY",
+  "workshops": [
+    {
+      "name": "AI/ML",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    }
+  ]
+}

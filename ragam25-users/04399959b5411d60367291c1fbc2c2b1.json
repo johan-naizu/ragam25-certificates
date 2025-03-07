@@ -1,0 +1,24 @@
+{
+  "email": "archasuma202@gmail.com",
+  "name": "Archa S",
+  "workshops": [
+    {
+      "name": "Autonomous Cars",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Kalolsavam Pass",
+      "verified": true
+    },
+    {
+      "name": "Bharatanatyam",
+      "verified": true
+    },
+    {
+      "name": "Bharatanatyam",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "email": "chinmaysaseendran@gmail.com",
+  "name": "Chinmay saseendran",
+  "workshops": [
+    {
+      "name": "AI/ML",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Free Fire",
+      "verified": true
+    }
+  ]
+}

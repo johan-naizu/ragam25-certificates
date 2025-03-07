@@ -1,0 +1,15 @@
+{
+  "email": "varsha_b241298ee@nitc.ac.in",
+  "name": "Varsha M Ijee",
+  "workshops": [
+    {
+      "name": "Frontend WebDev (Online)",
+      "verified": true
+    },
+    {
+      "name": "Ceramic Art",
+      "verified": true
+    }
+  ],
+  "events": []
+}

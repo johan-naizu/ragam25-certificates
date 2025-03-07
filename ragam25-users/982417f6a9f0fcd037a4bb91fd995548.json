@@ -1,0 +1,19 @@
+{
+  "email": "anjanasagar2k02@gmail.com",
+  "name": "Anjana Sagar",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Eastern Solo",
+      "verified": true
+    },
+    {
+      "name": "Kalolsavam Pass",
+      "verified": true
+    }
+  ]
+}

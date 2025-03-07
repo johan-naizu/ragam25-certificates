@@ -1,0 +1,16 @@
+{
+  "email": "justinjantony11@gmail.com",
+  "name": "Justin J Antony",
+  "workshops": [
+    {
+      "name": "Graphic Designing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    }
+  ]
+}

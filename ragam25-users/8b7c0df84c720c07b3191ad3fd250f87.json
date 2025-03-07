@@ -1,0 +1,15 @@
+{
+  "email": "devikajk30@gmail.com",
+  "name": "Devika Jayakrishnan ",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking (Online)",
+      "verified": true
+    },
+    {
+      "name": "Wheel Pottery",
+      "verified": true
+    }
+  ],
+  "events": []
+}

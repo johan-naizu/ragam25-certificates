@@ -1,0 +1,16 @@
+{
+  "email": "govardhanrs11@gmail.com",
+  "name": "Govardhan Rs",
+  "workshops": [
+    {
+      "name": "Graphic Designing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Free Fire",
+      "verified": true
+    }
+  ]
+}

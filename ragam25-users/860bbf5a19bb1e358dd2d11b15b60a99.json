@@ -1,0 +1,20 @@
+{
+  "email": "nived_b241034ar@nitc.ac.in",
+  "name": "NIVED K SREENIVAS ",
+  "workshops": [
+    {
+      "name": "AI/ML (Online)",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Kalolsavam Pass",
+      "verified": true
+    },
+    {
+      "name": "Event Pass",
+      "verified": true
+    }
+  ]
+}

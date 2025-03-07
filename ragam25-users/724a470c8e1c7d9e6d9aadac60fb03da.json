@@ -1,0 +1,16 @@
+{
+  "email": "sreeneha_b230092cs@nitc.ac.in",
+  "name": "Sreeneha Bhavanasi",
+  "workshops": [
+    {
+      "name": "Python (Online)",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

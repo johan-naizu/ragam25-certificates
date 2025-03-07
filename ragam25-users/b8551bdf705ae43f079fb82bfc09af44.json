@@ -1,0 +1,11 @@
+{
+  "email": "georgemathew239@gmail.com",
+  "name": "Mathew George",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

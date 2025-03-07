@@ -1,0 +1,15 @@
+{
+  "email": "lekshmimohangopal@gmail.com",
+  "name": "Lekshmi Mohan",
+  "workshops": [
+    {
+      "name": "Frontend WebDev",
+      "verified": true
+    },
+    {
+      "name": "Graphic Designing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

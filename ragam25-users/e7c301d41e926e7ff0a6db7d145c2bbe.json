@@ -1,0 +1,27 @@
+{
+  "email": "nandanam.nandu6@gmail.com",
+  "name": "NANDU S KUMAR",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Standup Comedy",
+      "verified": true
+    },
+    {
+      "name": "Treasure Hunt",
+      "verified": true
+    },
+    {
+      "name": "Sketching",
+      "verified": true
+    },
+    {
+      "name": "Crime Scene Investigation",
+      "verified": true
+    }
+  ]
+}

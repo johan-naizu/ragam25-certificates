@@ -1,0 +1,11 @@
+{
+  "email": "alan.s.robin@gmail.com",
+  "name": "Alan s Robin",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

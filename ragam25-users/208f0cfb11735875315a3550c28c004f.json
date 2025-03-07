@@ -1,0 +1,20 @@
+{
+  "email": "akhilafathima.rh2003@gmail.com",
+  "name": "Akhila RH",
+  "workshops": [
+    {
+      "name": "Sketchup with VR Integration",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    },
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

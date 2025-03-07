@@ -1,0 +1,15 @@
+{
+  "email": "suryasr387@gmail.com",
+  "name": "Surya S R",
+  "workshops": [
+    {
+      "name": "Sketchup with VR Integration",
+      "verified": true
+    },
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

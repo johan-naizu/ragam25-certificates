@@ -1,0 +1,20 @@
+{
+  "email": "sreeharis22550@gmail.com",
+  "name": "Sreehari S",
+  "workshops": [
+    {
+      "name": "Autonomous Cars",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Call of Duty Mobile",
+      "verified": true
+    },
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

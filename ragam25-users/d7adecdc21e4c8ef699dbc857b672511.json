@@ -1,0 +1,16 @@
+{
+  "email": "subinmathew408@gmail.com",
+  "name": "Subin Mathew",
+  "workshops": [
+    {
+      "name": "Graphic Designing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Free Fire",
+      "verified": true
+    }
+  ]
+}

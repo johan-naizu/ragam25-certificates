@@ -1,0 +1,15 @@
+{
+  "email": "ananduambadi794@gmail.com",
+  "name": "Anandu Ls Ambadi",
+  "workshops": [
+    {
+      "name": "Python",
+      "verified": true
+    },
+    {
+      "name": "Frontend WebDev",
+      "verified": true
+    }
+  ],
+  "events": []
+}

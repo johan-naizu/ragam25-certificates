@@ -1,0 +1,16 @@
+{
+  "email": "shabirrocks123@gmail.com",
+  "name": "Ameen Shabir",
+  "workshops": [
+    {
+      "name": "Frontend WebDev (Online)",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

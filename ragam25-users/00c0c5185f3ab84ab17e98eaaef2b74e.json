@@ -1,0 +1,15 @@
+{
+  "email": "anaulk@nitc.ac.in",
+  "name": "SANJIDA PARVIN SAMPA",
+  "workshops": [
+    {
+      "name": "Hand-Built Pottery",
+      "verified": true
+    },
+    {
+      "name": "Ceramic Art",
+      "verified": true
+    }
+  ],
+  "events": []
+}

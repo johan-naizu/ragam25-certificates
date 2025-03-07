@@ -1,0 +1,16 @@
+{
+  "email": "nm830402@gmail.com",
+  "name": "Nithin Murali",
+  "workshops": [
+    {
+      "name": "Introduction to IOT",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

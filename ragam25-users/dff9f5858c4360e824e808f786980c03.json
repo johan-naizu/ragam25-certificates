@@ -1,0 +1,11 @@
+{
+  "email": "annajith2@gmail.com",
+  "name": "Ann Ajith",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

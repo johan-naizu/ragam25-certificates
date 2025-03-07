@@ -1,0 +1,16 @@
+{
+  "email": "kriishnaabhin@gmail.com",
+  "name": "Abhinav Krishna K S",
+  "workshops": [
+    {
+      "name": "Startup Quest",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

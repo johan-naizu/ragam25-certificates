@@ -1,0 +1,28 @@
+{
+  "email": "kirandk1234778@gmail.com",
+  "name": "KIRAN DEV KRISHNA ",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Standup Comedy",
+      "verified": true
+    },
+    {
+      "name": "Mock Court",
+      "verified": true
+    },
+    {
+      "name": "Just A Minute",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "email": "220049@tkmce.ac.in",
+  "name": "Gouri Krishna A",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking",
+      "verified": true
+    },
+    {
+      "name": "Ansys",
+      "verified": true
+    }
+  ],
+  "events": []
+}

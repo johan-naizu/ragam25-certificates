@@ -1,0 +1,11 @@
+{
+  "email": "leomyladoor@gmail.com",
+  "name": "Leo Toms",
+  "workshops": [
+    {
+      "name": "Autonomous Cars",
+      "verified": true
+    }
+  ],
+  "events": []
+}

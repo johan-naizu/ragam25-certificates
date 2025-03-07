@@ -1,0 +1,15 @@
+{
+  "email": "rintuproy@gmail.com",
+  "name": "Rintu P Roy",
+  "workshops": [
+    {
+      "name": "Data Science",
+      "verified": true
+    },
+    {
+      "name": "AI/ML",
+      "verified": true
+    }
+  ],
+  "events": []
+}

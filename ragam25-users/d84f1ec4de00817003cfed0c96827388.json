@@ -1,0 +1,11 @@
+{
+  "email": "sheethalmaya7@gmail.com",
+  "name": "Sheethal MS",
+  "workshops": [
+    {
+      "name": "Quantum Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

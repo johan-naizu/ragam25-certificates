@@ -1,0 +1,11 @@
+{
+  "email": "jeevakshaji@gmail.com",
+  "name": "Jeeva K Shaji",
+  "workshops": [
+    {
+      "name": "Quantum Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,15 @@
+{
+  "email": "muhsinkanz@gmail.com",
+  "name": "Mohammed Muhsin.N",
+  "workshops": [
+    {
+      "name": "AI/ML (Online)",
+      "verified": true
+    },
+    {
+      "name": "Flutter",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,23 @@
+{
+  "email": "durgadasdk47@gmail.com",
+  "name": "Durgadas D K",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Western Solo",
+      "verified": true
+    },
+    {
+      "name": "Just A Minute",
+      "verified": true
+    },
+    {
+      "name": "Improv",
+      "verified": true
+    }
+  ]
+}

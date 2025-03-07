@@ -1,0 +1,27 @@
+{
+  "email": "fidhafizelsha@gmail.com",
+  "name": "FIDHA F S",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Kalolsavam Pass",
+      "verified": true
+    },
+    {
+      "name": "Mappilapattu",
+      "verified": true
+    },
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Western Solo",
+      "verified": true
+    },
+    {
+      "name": "Kavitha Parayanam",
+      "verified": true
+    }
+  ]
+}

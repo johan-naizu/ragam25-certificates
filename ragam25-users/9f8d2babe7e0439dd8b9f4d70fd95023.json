@@ -1,0 +1,40 @@
+{
+  "email": "pranavkishore33@gmail.com",
+  "name": "Pranav Kishor P ",
+  "workshops": [
+    {
+      "name": "Cinematography and Film Editing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    },
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Spell Bee",
+      "verified": true
+    },
+    {
+      "name": "Open Mela Quiz",
+      "verified": true
+    },
+    {
+      "name": "Open Mela Quiz",
+      "verified": true
+    },
+    {
+      "name": "Open General Quiz",
+      "verified": true
+    },
+    {
+      "name": "Treasure Hunt",
+      "verified": true
+    }
+  ]
+}

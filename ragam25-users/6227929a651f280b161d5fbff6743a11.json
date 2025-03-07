@@ -1,0 +1,20 @@
+{
+  "email": "amaldeve_b240440ee@nitc.ac.in",
+  "name": "AMALDEVE K V",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking (Online)",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Free Fire",
+      "verified": true
+    },
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

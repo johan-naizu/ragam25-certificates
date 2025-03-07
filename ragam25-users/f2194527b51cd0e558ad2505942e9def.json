@@ -1,0 +1,19 @@
+{
+  "email": "joe.zachariah67@gmail.com",
+  "name": "Joe Joseph ",
+  "workshops": [
+    {
+      "name": "Autonomous Cars",
+      "verified": true
+    },
+    {
+      "name": "Photo and Video Editing",
+      "verified": true
+    },
+    {
+      "name": "Introduction to IOT",
+      "verified": true
+    }
+  ],
+  "events": []
+}

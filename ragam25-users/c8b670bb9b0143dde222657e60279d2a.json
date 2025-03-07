@@ -1,0 +1,20 @@
+{
+  "email": "naveensbabu76@gmail.com",
+  "name": "Naveen",
+  "workshops": [
+    {
+      "name": "AutoCad (Online)",
+      "verified": true
+    },
+    {
+      "name": "Advanced Digital Marketing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

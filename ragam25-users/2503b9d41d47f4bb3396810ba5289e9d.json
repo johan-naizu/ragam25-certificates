@@ -1,0 +1,11 @@
+{
+  "email": "gaurimgau@gmail.com",
+  "name": "Gauri M",
+  "workshops": [
+    {
+      "name": "Frontend WebDev (Online)",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,19 @@
+{
+  "email": "sridharkatari2@gmail.com",
+  "name": "Sridhar Katari",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Dance Off",
+      "verified": true
+    },
+    {
+      "name": "Free Style",
+      "verified": true
+    }
+  ]
+}

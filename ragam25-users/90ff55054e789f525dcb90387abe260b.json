@@ -1,0 +1,23 @@
+{
+  "email": "denvertvivian@gmail.com",
+  "name": "DENVERTVIVIAN F",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Dance Off",
+      "verified": true
+    },
+    {
+      "name": "Tangled",
+      "verified": true
+    },
+    {
+      "name": "Free Style",
+      "verified": true
+    }
+  ]
+}

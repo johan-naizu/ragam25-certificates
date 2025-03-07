@@ -1,0 +1,32 @@
+{
+  "email": "kakarala_b240207ep@nitc.ac.in",
+  "name": "Mahitha",
+  "workshops": [
+    {
+      "name": "AI/ML (Online)",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "String Solo",
+      "verified": true
+    },
+    {
+      "name": "String Solo",
+      "verified": true
+    },
+    {
+      "name": "String Solo",
+      "verified": true
+    },
+    {
+      "name": "Crime Scene Investigation",
+      "verified": true
+    }
+  ]
+}

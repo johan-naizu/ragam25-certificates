@@ -1,0 +1,16 @@
+{
+  "email": "adithyansnair353@gmail.com",
+  "name": "Adithyan S nair",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "email": "aiswaryashaji.d@gmail.com",
+  "name": "Aiswarya D Shaji ",
+  "workshops": [
+    {
+      "name": "Calligraphy",
+      "verified": true
+    },
+    {
+      "name": "Flutter",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,16 @@
+{
+  "email": "va780336@gmail.com",
+  "name": "Vishnu A B ",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "email": "9d09bharathkrishnaj@gmail.com",
+  "name": "Bharath Krishna J",
+  "workshops": [
+    {
+      "name": "Game Development",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Free Fire",
+      "verified": true
+    }
+  ]
+}

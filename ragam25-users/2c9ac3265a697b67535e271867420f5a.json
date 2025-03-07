@@ -1,0 +1,16 @@
+{
+  "email": "naveendeepu6@gmail.com",
+  "name": "Naveen",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Valorant",
+      "verified": true
+    }
+  ]
+}

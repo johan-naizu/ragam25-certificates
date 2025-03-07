@@ -1,0 +1,15 @@
+{
+  "email": "gayathri.girish511@gmail.com",
+  "name": "Gayathri Girish ",
+  "workshops": [
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    },
+    {
+      "name": "Generative AI",
+      "verified": true
+    }
+  ],
+  "events": []
+}

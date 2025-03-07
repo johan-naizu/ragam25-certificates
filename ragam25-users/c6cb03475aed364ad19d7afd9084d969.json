@@ -1,0 +1,15 @@
+{
+  "email": "shalinmiya98@gmail.com",
+  "name": "Shalin Miya Babu",
+  "workshops": [
+    {
+      "name": "Generative AI",
+      "verified": true
+    },
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": []
+}

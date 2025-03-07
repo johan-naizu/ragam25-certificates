@@ -1,0 +1,20 @@
+{
+  "email": "gauthamkrishnabr@gmail.com",
+  "name": "GAUTHAMKRISHNA B R",
+  "workshops": [
+    {
+      "name": "Graphic Designing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Kalolsavam Pass",
+      "verified": true
+    },
+    {
+      "name": "Event Pass",
+      "verified": true
+    }
+  ]
+}

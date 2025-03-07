@@ -1,0 +1,15 @@
+{
+  "email": "alexgeorgeanil3@gmail.com",
+  "name": "Alex George Anil ",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Spell Bee",
+      "verified": true
+    }
+  ]
+}

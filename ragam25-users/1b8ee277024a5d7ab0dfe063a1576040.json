@@ -1,0 +1,11 @@
+{
+  "email": "angelantony098@gmail.com",
+  "name": "Angel Antony ",
+  "workshops": [
+    {
+      "name": "Frontend WebDev",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,11 @@
+{
+  "email": "director@visat.ac.in",
+  "name": "Dr. Dileep",
+  "workshops": [
+    {
+      "name": "AI/ML",
+      "verified": true
+    }
+  ],
+  "events": []
+}

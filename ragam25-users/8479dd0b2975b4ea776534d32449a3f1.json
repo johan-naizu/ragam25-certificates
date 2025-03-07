@@ -1,0 +1,16 @@
+{
+  "email": "devanandanvv@gmail.com",
+  "name": "Deva Nandan V V",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "BGMI",
+      "verified": true
+    }
+  ]
+}

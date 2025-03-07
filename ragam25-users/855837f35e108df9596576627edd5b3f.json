@@ -1,0 +1,28 @@
+{
+  "email": "zahiaman@gmail.com",
+  "name": "AMAN ZAHI",
+  "workshops": [
+    {
+      "name": "Blockchain Technology",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Crime Scene Investigation",
+      "verified": true
+    },
+    {
+      "name": "Crime Scene Investigation",
+      "verified": true
+    },
+    {
+      "name": "Crime Scene Investigation",
+      "verified": true
+    }
+  ]
+}

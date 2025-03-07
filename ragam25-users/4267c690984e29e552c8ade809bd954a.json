@@ -1,0 +1,15 @@
+{
+  "email": "greeshmapreetha2@gmail.com",
+  "name": "Greeshma Preetha",
+  "workshops": [
+    {
+      "name": "Sketchup with VR Integration",
+      "verified": true
+    },
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

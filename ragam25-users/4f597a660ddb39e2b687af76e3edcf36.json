@@ -1,0 +1,15 @@
+{
+  "email": "arunafathima.n@gmail.com",
+  "name": "Aruna Fathima N",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking (Online)",
+      "verified": true
+    },
+    {
+      "name": "Data Security and Privacy Protection (Online)",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "email": "adithyanjaikumar87@gmail.com",
+  "name": "Adithyan ",
+  "workshops": [],
+  "events": [
+    {
+      "name": "Event Pass",
+      "verified": true
+    },
+    {
+      "name": "Treasure Hunt",
+      "verified": true
+    },
+    {
+      "name": "Crime Scene Investigation",
+      "verified": true
+    },
+    {
+      "name": "Just A Minute",
+      "verified": true
+    },
+    {
+      "name": "Debate - English",
+      "verified": true
+    }
+  ]
+}

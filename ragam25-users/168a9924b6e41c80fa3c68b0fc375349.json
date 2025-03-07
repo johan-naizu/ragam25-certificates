@@ -1,0 +1,11 @@
+{
+  "email": "agautham95@gmail.com",
+  "name": "Gautham",
+  "workshops": [
+    {
+      "name": "Blockchain Technology",
+      "verified": true
+    }
+  ],
+  "events": []
+}

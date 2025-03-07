@@ -1,0 +1,11 @@
+{
+  "email": "mariapious6@gmail.com",
+  "name": "Maria Pious ",
+  "workshops": [
+    {
+      "name": "Quantum Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

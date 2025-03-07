@@ -1,0 +1,15 @@
+{
+  "email": "suhartohaany@gmail.com",
+  "name": "Harijith  HS",
+  "workshops": [
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    },
+    {
+      "name": "Blockchain Technology",
+      "verified": true
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,11 @@
+{
+  "email": "srinand006@gmail.com",
+  "name": "Srinand Sekhar",
+  "workshops": [
+    {
+      "name": "Python",
+      "verified": true
+    }
+  ],
+  "events": []
+}

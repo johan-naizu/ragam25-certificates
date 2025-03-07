@@ -1,0 +1,15 @@
+{
+  "email": "achumanoharan77@gmail.com",
+  "name": "Aswin M",
+  "workshops": [
+    {
+      "name": "Data Security and Privacy Protection (Online)",
+      "verified": true
+    },
+    {
+      "name": "Big Data Analysis",
+      "verified": true
+    }
+  ],
+  "events": []
+}

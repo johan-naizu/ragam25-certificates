@@ -1,0 +1,11 @@
+{
+  "email": "anagha3035@gmail.com",
+  "name": "Anagha Aju",
+  "workshops": [
+    {
+      "name": "Quantum Computing",
+      "verified": true
+    }
+  ],
+  "events": []
+}

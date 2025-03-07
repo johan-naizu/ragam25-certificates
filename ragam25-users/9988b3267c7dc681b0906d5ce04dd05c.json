@@ -1,0 +1,16 @@
+{
+  "email": "rohanrajanpious6@gmail.com",
+  "name": "Rohan Rajan",
+  "workshops": [
+    {
+      "name": "Cloud Computing",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "E Football",
+      "verified": true
+    }
+  ]
+}

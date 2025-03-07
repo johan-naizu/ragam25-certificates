@@ -1,0 +1,16 @@
+{
+  "email": "riyakunjumon16@gmail.com",
+  "name": "Riya Kunjumon ",
+  "workshops": [
+    {
+      "name": "Data Science",
+      "verified": true
+    }
+  ],
+  "events": [
+    {
+      "name": "Squid Game",
+      "verified": true
+    }
+  ]
+}

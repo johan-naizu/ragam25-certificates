@@ -1,0 +1,11 @@
+{
+  "email": "prafuljs89@gmail.com",
+  "name": "Praful JS",
+  "workshops": [
+    {
+      "name": "Autonomous Cars",
+      "verified": true
+    }
+  ],
+  "events": []
+}

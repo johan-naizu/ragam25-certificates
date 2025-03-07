@@ -1,0 +1,15 @@
+{
+  "email": "8589mj@gmail.com",
+  "name": "Muhammed Jaseem P P",
+  "workshops": [
+    {
+      "name": "Cyber Forensics and Ethical Hacking (Online)",
+      "verified": true
+    },
+    {
+      "name": "Data Security and Privacy Protection (Online)",
+      "verified": true
+    }
+  ],
+  "events": []
+}

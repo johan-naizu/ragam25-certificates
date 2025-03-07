@@ -1,0 +1,15 @@
+{
+  "email": "sjdevananda10b@gmail.com",
+  "name": "Devananda S J",
+  "workshops": [
+    {
+      "name": "Frontend WebDev (Online)",
+      "verified": true
+    },
+    {
+      "name": "Electric Vehicles",
+      "verified": true
+    }
+  ],
+  "events": []
+}
