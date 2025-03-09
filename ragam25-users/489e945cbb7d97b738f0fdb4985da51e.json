@@ -1,0 +1,19 @@
+{
+  "email": "deonjr834@gmail.com",
+  "name": "Deon Jacob Reji",
+  "workshops": [
+    {
+      "name": "Cinematography and Film Editing",
+      "verified": true
+    },
+    {
+      "name": "Decoding Social Media Trends",
+      "verified": true
+    },
+    {
+      "name": "Introduction to UI/UX",
+      "verified": true
+    }
+  ],
+  "events": []
+}
