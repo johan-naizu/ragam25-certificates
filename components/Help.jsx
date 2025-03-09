@@ -8,7 +8,11 @@ export default function Helper() {
         <Box mt="1" fontWeight="semibold" as="h4" display={"flex"}>
           I&apos;m facing issues
           <Box ml={1}>
-            <Link href={"https://forms.gle/xv6fzSfBouNze5zS9"}>
+            <Link
+              href={
+                "https://docs.google.com/forms/d/e/1FAIpQLSd6chS634PfCCvKVgboKL6CezlzPF0GNwr8LMXWYpVcWKgvOQ/viewform?usp=dialog"
+              }
+            >
               <button>
                 <Badge colorScheme="red">Help me</Badge>
               </button>

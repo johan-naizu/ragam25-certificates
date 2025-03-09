@@ -32,7 +32,9 @@ const Layout: FC<Props> = (props) => {
           display: "flex",
           justifyContent: "center",
         }}
-      ></div>
+      >
+        {router.asPath !== "/admin2022" ? <Helper /> : null}
+      </div>
     </Container>
   );
 };
